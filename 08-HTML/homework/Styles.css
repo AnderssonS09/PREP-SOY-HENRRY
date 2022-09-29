@@ -1,0 +1,37 @@
+h1 {
+    color:blue;
+}
+img{ 
+    width: 400px;
+
+}
+#thirdDiv{
+    height: 700px;
+    width: 500px;
+    background-color: white;
+    padding: 5px;
+    border: 3px solid black;
+    margin-left: auto;
+    margin-right: auto;
+      
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url(imagen\ restaurante.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.divClass{
+    background-color: black;
+    width: 400px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
