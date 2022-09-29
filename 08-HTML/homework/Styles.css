@@ -6,6 +6,8 @@ img{
 
 }
 #thirdDiv{
+    display: flex;
+    justify-content:center;
     height: 700px;
     width: 500px;
     background-color: white;
@@ -25,9 +27,11 @@ body{
     background: url(imagen\ restaurante.jpg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     font-family: sans-serif;
 }
-.divClass{
+.divClass{  
+    color: white;
     background-color: black;
     width: 400px;
     height: 150px;
