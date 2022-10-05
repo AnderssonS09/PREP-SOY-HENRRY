@@ -1,0 +1,13 @@
+Andersson Gonzalez PUNTO 1 DEL HOMEWORK JS1
+Explicacion de los conceptos:
+
+Variables: Una variables es algo a lo que le asignamos un nombre y un valor de cualquier tipo, para luego usarlo o cambiarlo más adelante.
+
+Strings: Los strings son cadenas de texto, para declarar un string debe estar entre comillas sencillas o dobles.
+
+Funciones:Una funcion es un objeto, el cual podemos llamar, lo que hacen las funciones es ejecutar el codigo que tienen dentro y sus argumentos.
+La declaracion "return" finaliza la ejecucion de la funcion y devuelve un valor a quien llama la funcion.
+
+Declaraciones if: las declaraciones if llevan dentro una regla, cuando se cumple esa reglas se ejecuta el bloque de codigo y cuando no se c0umple esa regla se ejecuta otro bloque diferente o no se ejecuta nada, esto depende totalmente de que es lo que quiera el progrmador.
+
+Valores Booleanos: los valores Booleanos representa un valor verdadero o falso, un 0 o un 1.
